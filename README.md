@@ -3,7 +3,8 @@
     <h1>&#x1F30E Olá Mundo, eu sou Michel Ângelo</h1>
     <h2>Estudante de Eletrônica e Programação Web, Procedural && POO</h2>
     </div>
-<p>&#x2764 Atualmente estudando tecnologias web &#x2764</p>
+	<p>Ensino médio &#x1F1E7</p>
+	<p>&#x2764 Atualmente estudando tecnologias web e acompanhando aulas EAD&#x2764</p>
 
 <br>
 <div>
