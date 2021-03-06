@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+
+div[type='apresentacao'] {
+    font-family: monospace;
+}
+
+div[type='distros'] {
+    width: 1px;
+}
+
+div[type='logos'] > img {
+    width: 2%;
+}
