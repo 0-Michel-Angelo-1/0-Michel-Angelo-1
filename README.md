@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css" />
+<div align="center">
 <div type="apresentacao">
     <h1>&#x1F30E Olá Mundo, eu sou Michel Ângelo</h1>
     <h2>Estudante de Eletrônica e Programação Web, Funcional && POO</h2>
@@ -21,4 +22,5 @@
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Michel-Angelo-1&hide=python&langs_count=9&layout=compact&show_icons=true&theme=chartreuse-dark"
     />
+</div>
 </div>
