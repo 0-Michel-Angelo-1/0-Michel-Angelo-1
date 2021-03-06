@@ -1,7 +1,7 @@
 <div align="center">
 <div type="apresentacao">
     <h1>&#x1F30E Olá Mundo, eu sou Michel Ângelo</h1>
-    <h2>Estudante de Eletrônica e Programação Web, Funcional && POO</h2>
+    <h2>Estudante de Eletrônica e Programação Web, Procedural && POO</h2>
     </div>
 <p>&#x2764 Atualmente estudando tecnologias web &#x2764</p>
 
