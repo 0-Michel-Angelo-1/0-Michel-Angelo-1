@@ -14,7 +14,7 @@
     />
     <br />
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Michel-Angelo-1&hide=python&langs_count=9&layout=compact&show_icons=true&theme=chartreuse-dark"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Michel-Angelo-1&hide=python,Cmake,Makefile,Shell&langs_count=9&layout=compact&show_icons=true&theme=chartreuse-dark"
     />
 </div>
 	<h3>Contatos</h3>
