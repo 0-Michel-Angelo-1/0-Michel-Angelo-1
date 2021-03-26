@@ -4,7 +4,7 @@
     <h2>Estudante de Eletrônica e Programação Web, Procedural && POO</h2>
     <h3>🇧🇷 Teresina, Piaui - Brasil 🇧🇷</h3>
 </div>
-	<p>&#x2764 Atualmente programação de de MCU's PIC18 e acompanhando aulas EAD&#x2764</p>
+	<p>&#x2764 Atualmente estudando programação de de MCU's PIC18 e acompanhando aulas EAD&#x2764</p>
 
 <br>
 <div>
